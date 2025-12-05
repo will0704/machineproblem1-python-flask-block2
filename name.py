@@ -1,2 +1,4 @@
 print("Will Anthony B. Barillo")
-print("Theo Alexis F. Juan")
+print("Jerie C. Lacap")
+print("Genesis Manzon Lirazan")
+print("Theo Alexis Juan")
